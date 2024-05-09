@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo_app_reverpod
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Todo_app_riverpod
+Add, edit, remove, notification, firebase auth,.
+>>>>>>> d98d49864aa6b964ae2f53068130b2a5e67b878b
